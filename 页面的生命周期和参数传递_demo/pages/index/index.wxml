@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="container">
+
+  <view>
+    <text class="user-motto1" bindtap="click">我是标题1</text>
+  </view>
+    <view>
+    <text class="user-motto2">我是标题2</text>
+  </view>
+    <view>
+    <text class="user-motto3">我是标题3</text>
+  </view>
+</view>

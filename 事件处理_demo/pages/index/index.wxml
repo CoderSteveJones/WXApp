@@ -1,0 +1,12 @@
+<view class="view11" bindtap="view11Click" id="11">
+view11
+  <view class="view22" bindtap="view22Click">
+  view22
+    <view class="view33" bindtap="view33Click" id="33">
+    view33
+    
+    </view>
+  </view>
+
+
+</view>

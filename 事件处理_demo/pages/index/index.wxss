@@ -1,0 +1,17 @@
+.view11 {
+  height: 500rpx;
+  width: 100%;
+  background-color: mediumspringgreen;
+}
+
+.view22 {
+  height: 300rpx;
+  width: 80%;
+  background-color: red;
+}
+
+.view33 {
+  height: 200rpx;
+  width: 60%;
+  background-color: navajowhite;
+}

@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+<view bindtap="viewClick">这是文章标题1</view>
+<view>这是文章标题2</view>
+<view>这是文章标题3</view>
+</view>

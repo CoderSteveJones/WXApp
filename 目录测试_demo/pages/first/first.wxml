@@ -1,0 +1,14 @@
+<include src="../templates/header" />
+
+
+
+<button type="default" bindtap="btnClick" hover-class="other-button-hover"> {{buttonTitle}} </button>
+<text wx:if="{{isShow}}">{{text}}</text>
+
+<view wx:for="{{news}}" wx:for-item="news" wx:for-index="dex">
+
+{{dex}}-{{news}}
+
+</view>
+
+<include src="../templates/footer" />
