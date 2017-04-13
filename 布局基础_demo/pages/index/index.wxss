@@ -1,0 +1,17 @@
+.container {
+  height: 100%;
+  width: 100%;
+  background-color: blue;
+  display: flex;
+  /*flex-direction: row;
+  flex-wrap: wrap;*/
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: flex-end;
+}
+.item {
+  height: 100rpx;
+  width: 100rpx;
+  background-color: red;
+  border: 1px solid #fff; 
+}

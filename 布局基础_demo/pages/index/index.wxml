@@ -1,0 +1,27 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="item">
+  haha
+  </view>
+  <view class="item">
+  haha
+  </view>
+  <view class="item">
+  haha
+  </view>
+    <view class="item">
+  haha
+  </view>
+  <view class="item">
+  haha
+  </view>
+  <view class="item">
+  haha
+  </view>
+    <view class="item">
+  haha
+  </view>
+  <view class="item">
+  haha
+  </view>
+</view>
